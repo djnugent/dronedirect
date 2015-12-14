@@ -20,6 +20,8 @@ This is a directional control library for [Dronekit](http://dronekit.io/).
 1. Turn on your Solo and connect to its Wifi from your computer
 1. Run `solo script run <myscript.py>`
 
+**only applies to code run onboard solo(i.e. helloworld, not virtual joystick)**
+
 ## Examples
 Examples can be found in the Example folders
 
